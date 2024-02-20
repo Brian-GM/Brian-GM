@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **briangomezmartinezz@gmail.com**
 
-- 📄 Know about my experiences [https://brian-gm.github.io/cv.html](https://brian-gm.github.io/cv.html)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_brian_gm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_brian_gm_" height="30" width="40" /></a>
