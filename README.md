@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A passionate full stack developer from Spain more focused on frontend.</h3>
+<h3 align="center">A passionate indie game developer from Spain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-gm&label=Profile%20views&color=0e75b6&style=flat" alt="brian-gm" /> </p>
 
 - 🔭 I’m currently working on **studying and looking for a job**
 
-- 🌱 I’m currently learning **superior degree in Web Development**
+- 🌱 I’m currently learning **Master in game and vr developer**
 
 - 👨‍💻 All of my projects are available at [https://brian-gm.github.io/](https://brian-gm.github.io/)
 
