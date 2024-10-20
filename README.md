@@ -20,8 +20,8 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/krita/krita-icon.svg" alt="krita" width="40" height="40"/>
+<img src="https://download.blender.org/branding/blender_logo.png" alt="blender" width="100" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" alt="krita" width="40" height="40"/>
 
 
 
